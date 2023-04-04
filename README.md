@@ -22,7 +22,7 @@ We recommend downloading these notebooks and opening them in Google Colaboratory
 
 ## Guidelines
 
-Everyone will have approximately 2 hours to work with their dataset of choice. Explore your dataset, get to know it, ask questions, and try to visualize answers to your questions. What are some insights that would help enlighten your own life? Are there any business scenarios that could benefit from your findings? Can your frame your data story in terms of a business proposal, or perhaps a case to change people's minds about a certain topic? For example, 
+Everyone will have approximately 1.5 hours to work with their dataset of choice. Explore your dataset, get to know it, ask questions, and try to visualize answers to your questions. What are some insights that would help enlighten your own life? Are there any business scenarios that could benefit from your findings? Can your frame your data story in terms of a business proposal, or perhaps a case to change people's minds about a certain topic? For example, 
 
 - Feel free to supplement with outside data, but beware that this may take precious time
 - We encourage you to work with other attendees - it's a great way to make connections, learn from others, and maximize brainstorming
