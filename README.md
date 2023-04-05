@@ -18,6 +18,8 @@ If you are newer to data visualization or would prefer to get a quick start, con
 - `bdsc-dataviz.ipynb` - code to access the datasets and some example visual code
 - `bdsc-dataviz-pygwalker.ipynb` - an interactive drag-and-drop UI for quick visuals
 
+Also checkout the `Resources.md` file - this has lots of great examples and references for you to leverage.
+
 We recommend downloading these notebooks and opening them in Google Colaboratory: https://colab.research.google.com. Google Colab is a great tool for coding in Python without installing anything to your laptop.
 
 ## Guidelines
